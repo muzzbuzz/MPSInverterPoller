@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPSInverterPoller", "MPSInverterPoller.csproj", "{BB1365C8-F04F-421A-98D5-8838848E76A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1365C8-F04F-421A-98D5-8838848E76A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1365C8-F04F-421A-98D5-8838848E76A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1365C8-F04F-421A-98D5-8838848E76A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1365C8-F04F-421A-98D5-8838848E76A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F951CCF6-C2DE-435E-9736-6E4121874B58}
+	EndGlobalSection
+EndGlobal
